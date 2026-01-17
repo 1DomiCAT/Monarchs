@@ -152,3 +152,8 @@ footer {
 .navi{
     padding:0px 60px;
 }
+.dc{
+    position: absolute;
+    left:5px;
+    top: 80px;
+}
